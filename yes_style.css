@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #FF69B4;
+    background-color: #ffffff;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -12,7 +12,7 @@ body {
     font-family: 'Nunito';
     font-size: 50px;
     font-weight: bold;
-    color: white;
+    color: #FFC0CB;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
@@ -23,7 +23,7 @@ body {
     font-family: 'Nunito';
     font-size: 20px;
     font-weight: normal;
-    color: white;
+    color: #FFC0CB;
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
